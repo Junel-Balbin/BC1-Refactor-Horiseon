@@ -49,7 +49,7 @@ a {
 
 /* Added a hover. Credit to W3Schools */
 a:hover {
-    color: black;
+    color: darkgray;
 }
 
 /* Increased the size of the font from 16px - 18px for an easier read */
@@ -96,7 +96,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Organized benefit-lead together */
+/* Consolidated benefit-lead together */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -113,7 +113,7 @@ p {
     max-width: 150px;
 }
 
-/* Organized benefit-brand together */
+/* Consolidated benefit-brand together */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -130,7 +130,7 @@ p {
     max-width: 150px;
 }
 
-/* Organized benefit-cost together */
+/* Consolidated benefit-cost together */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -147,7 +147,7 @@ p {
     max-width: 150px;
 }
 
-/* Organized search-engine-optimization together */
+/* Consolidated search-engine-optimization together */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -166,7 +166,7 @@ p {
     font-size: 36px;
 }
 
-/* Organized online-reputation-management together */
+/* Consolidated online-reputation-management together */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -185,7 +185,7 @@ p {
     font-size: 36px;
 }
 
-/* Organized social-media-marketing together */
+/* Consolidated social-media-marketing together */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
