@@ -16,7 +16,6 @@
 * Feel free to add to your liking.  Remember to clean up after yourself.
 
 ## <Strong>Credits<Strong>:
-*
 * EdX & UCB for Starter Code.
 * The Git Guild - README resource: Youtube.
 
