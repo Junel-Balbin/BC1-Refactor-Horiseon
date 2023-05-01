@@ -16,6 +16,8 @@
 * Feel free to add to your liking.  Reach out to me for details.  Remember to clean up after yourself.
 
 ## <Strong>Credits<Strong>:
+* Starter Codes provided by EdX and UCB.
+
 * [W3Schools.com](https://www.w3schools.com/cssref/sel_hover.php) -  Hover feature.
 <img src="./assets/images/hover1.png">
 
