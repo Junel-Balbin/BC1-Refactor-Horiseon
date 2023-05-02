@@ -57,6 +57,11 @@ p {
     font-size: 18px;
 }
 
+/*Added a figcaption*/
+figcaption {
+    font-size: 18px;
+}
+
 /*Replaced hero class . to id #*/
 #hero {
     height: 800px;
