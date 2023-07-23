@@ -4,7 +4,9 @@
 
 ## <Strong>Description<Strong>:
 
-* Horiseon works for you and helps with your business needs with the use of S.E. Optimization, O.R. Marketing and S.M. Marketing.  This can include with numerous Lead Generation, Brand Awareness and Cost Management.
+* Horiseon works for you and helps with your business needs with the use of S.E. Optimization, O.R. Marketing and S.M. Marketing.  This can include with numerous Lead Generation, Brand Awareness and Cost Management.  
+
+* Refactor Challenge Assignment to improve and update codes & files for better readability and future maintenance.
 
 ## <Strong>Installation<Strong>:
 * On a web browser please follow the link to begin exploring. [Horiseon.](https://junel-balbin.github.io/BC1-Refactor-Horiseon/)
